@@ -1,2 +1,2 @@
 # Certificard Imersão Dev 4 Alura 
-link for this website:  https://dannog18.github.io/certificard/
+link for this website: https://dannog18.github.io/alura-certificard/
